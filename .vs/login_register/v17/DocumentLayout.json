@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACA7BEC-DD4B-4F18-93B9-55EE2EBE2488}|login_register\\login_register.csproj|c:\\users\\enes\\desktop\\github\\asp.net-login-registration\\login_register\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6ACA7BEC-DD4B-4F18-93B9-55EE2EBE2488}|login_register\\login_register.csproj|solutionrelative:login_register\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACA7BEC-DD4B-4F18-93B9-55EE2EBE2488}|login_register\\login_register.csproj|c:\\users\\enes\\desktop\\github\\asp.net-login-registration\\login_register\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ACA7BEC-DD4B-4F18-93B9-55EE2EBE2488}|login_register\\login_register.csproj|solutionrelative:login_register\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACA7BEC-DD4B-4F18-93B9-55EE2EBE2488}|login_register\\login_register.csproj|c:\\users\\enes\\desktop\\github\\asp.net-login-registration\\login_register\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ACA7BEC-DD4B-4F18-93B9-55EE2EBE2488}|login_register\\login_register.csproj|solutionrelative:login_register\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\login_register\\Login.aspx",
+              "RelativeDocumentMoniker": "login_register\\Login.aspx",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\login_register\\Login.aspx",
+              "RelativeToolTip": "login_register\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-02T13:11:52.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\login_register\\packages.config",
+              "RelativeDocumentMoniker": "login_register\\packages.config",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\login_register\\packages.config",
+              "RelativeToolTip": "login_register\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-02T13:11:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\login_register\\Web.config",
+              "RelativeDocumentMoniker": "login_register\\Web.config",
+              "ToolTip": "C:\\Users\\Enes\\Desktop\\Github\\ASP.NET-Login-Registration\\login_register\\Web.config",
+              "RelativeToolTip": "login_register\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-02T13:11:45.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

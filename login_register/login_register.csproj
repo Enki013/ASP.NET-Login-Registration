@@ -11,8 +11,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>vize_ödevi</RootNamespace>
-    <AssemblyName>vize_ödevi</AssemblyName>
+    <RootNamespace>login_register</RootNamespace>
+    <AssemblyName>login_register</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -67,36 +67,37 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\Giris.css" />
-    <Content Include="assets\Kayit.css" />
-    <Content Include="assets\NotOrtalama.css" />
+    <Content Include="App_Data\Users.txt" />
+    <Content Include="assets\Login.css" />
+    <Content Include="assets\Register.css" />
+    <Content Include="assets\GradeAverage.css" />
     <Content Include="Web.config" />
-    <Content Include="Kayit.aspx" />
-    <Content Include="Giris.aspx" />
-    <Content Include="NotOrtalama.aspx" />
+    <Content Include="Register.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="GradeAverage.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Kayit.aspx.cs">
-      <DependentUpon>Kayit.aspx</DependentUpon>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Kayit.aspx.designer.cs">
-      <DependentUpon>Kayit.aspx</DependentUpon>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Giris.aspx.cs">
-      <DependentUpon>Giris.aspx</DependentUpon>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Giris.aspx.designer.cs">
-      <DependentUpon>Giris.aspx</DependentUpon>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
-    <Compile Include="NotOrtalama.aspx.cs">
-      <DependentUpon>NotOrtalama.aspx</DependentUpon>
+    <Compile Include="GradeAverage.aspx.cs">
+      <DependentUpon>GradeAverage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="NotOrtalama.aspx.designer.cs">
-      <DependentUpon>NotOrtalama.aspx</DependentUpon>
+    <Compile Include="GradeAverage.aspx.designer.cs">
+      <DependentUpon>GradeAverage.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -108,9 +109,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

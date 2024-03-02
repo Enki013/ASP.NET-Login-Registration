@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace vize_ödevi
+namespace login_register
 {
 
 
@@ -24,66 +24,66 @@ namespace vize_ödevi
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// txtKullaniciAdi control.
+        /// txtUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtKullaniciAdi;
+        protected global::System.Web.UI.WebControls.TextBox txtUsername;
 
         /// <summary>
-        /// txtSifre control.
+        /// txtPassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSifre;
+        protected global::System.Web.UI.WebControls.TextBox txtPassword;
 
         /// <summary>
-        /// txtSifreTekrar control.
+        /// txtConfirmPassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSifreTekrar;
+        protected global::System.Web.UI.WebControls.TextBox txtConfirmPassword;
 
         /// <summary>
-        /// btnKayit control.
+        /// btnSignup control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnKayit;
+        protected global::System.Web.UI.WebControls.Button btnSignup;
 
         /// <summary>
-        /// lblKayitDurumu control.
+        /// lblSignupStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblKayitDurumu;
+        protected global::System.Web.UI.WebControls.Label lblSignupStatus;
 
         /// <summary>
-        /// lblKullaniciAdiKurallari control.
+        /// lblUsernameRules control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblKullaniciAdiKurallari;
+        protected global::System.Web.UI.WebControls.Label lblUsernameRules;
 
         /// <summary>
-        /// lblSifreKurallari control.
+        /// lblPasswordRules control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblSifreKurallari;
+        protected global::System.Web.UI.WebControls.Label lblPasswordRules;
     }
 }

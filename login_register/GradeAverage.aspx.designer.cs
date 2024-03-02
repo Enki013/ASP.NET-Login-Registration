@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace vize_ödevi
+namespace login_register
 {
 
 
@@ -33,48 +33,48 @@ namespace vize_ödevi
         protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
-        /// txtNot1 control.
+        /// txtGrade1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNot1;
+        protected global::System.Web.UI.WebControls.TextBox txtGrade1;
 
         /// <summary>
-        /// txtNot2 control.
+        /// txtGrade2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNot2;
+        protected global::System.Web.UI.WebControls.TextBox txtGrade2;
 
         /// <summary>
-        /// txtNot3 control.
+        /// txtGrade3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNot3;
+        protected global::System.Web.UI.WebControls.TextBox txtGrade3;
 
         /// <summary>
-        /// btnOrtalamaHesapla control.
+        /// btnCalculateAverage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnOrtalamaHesapla;
+        protected global::System.Web.UI.WebControls.Button btnCalculateAverage;
 
         /// <summary>
-        /// lblOrtalamaSonuc control.
+        /// lblAverageResult control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblOrtalamaSonuc;
+        protected global::System.Web.UI.WebControls.Label lblAverageResult;
     }
 }

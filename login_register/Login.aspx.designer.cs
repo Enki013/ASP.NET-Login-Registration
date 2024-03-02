@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace vize_ödevi
+namespace login_register
 {
 
 
@@ -24,31 +24,31 @@ namespace vize_ödevi
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// txtKullaniciAdi control.
+        /// txtUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtKullaniciAdi;
+        protected global::System.Web.UI.WebControls.TextBox txtUsername;
 
         /// <summary>
-        /// txtSifre control.
+        /// txtPassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSifre;
+        protected global::System.Web.UI.WebControls.TextBox txtPassword;
 
         /// <summary>
-        /// btnGiris control.
+        /// btnLogin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnGiris;
+        protected global::System.Web.UI.WebControls.Button btnLogin;
 
         /// <summary>
         /// LinkButton1 control.
@@ -60,12 +60,12 @@ namespace vize_ödevi
         protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
 
         /// <summary>
-        /// lblGirisDurumu control.
+        /// lblLoginStatus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblGirisDurumu;
+        protected global::System.Web.UI.WebControls.Label lblLoginStatus;
     }
 }

@@ -21,9 +21,9 @@ This application allows students to log in, register, and calculate their grade 
 - **Calculate Grade Average:**
   - After logging in, go to the "Grade Average" page (**GradeAverage.aspx**).
   - Enter three different exam grades.
-  - Click on the "Calculate Average" (Calculate Average) button.
+  - Click on the "Calculate Average" button.
 - **Log Out:**
-  - End your session by clicking on the "Log Out" (Log Out) button on any page.
+  - End your session by clicking on the "Log Out" button on any page.
 
 ## **Development**
 

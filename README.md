@@ -4,32 +4,32 @@ This application allows students to log in, register, and calculate their grade 
 
 ## **Features**
 
-- **Login Page (Giris.aspx):** Allows users to log in with a username and password. It handles incorrect login attempts and session timeouts.
-- **Registration Page (Kayit.aspx):** Enables new users to register by providing a username and password. Usernames must be unique.
-- **Grade Average Page (NotOrtalama.aspx):** Users can input three different exam grades. The application calculates the average grade based on the inputs and displays it to the user.
+- **Login Page (Login.aspx):** Allows users to log in with a username and password. It handles incorrect login attempts and session timeouts.
+- **Registration Page (Register.aspx):** Enables new users to register by providing a username and password. Usernames must be unique.
+- **Grade Average Page (GradeAverage.aspx):** Users can input three different exam grades. The application calculates the average grade based on the inputs and displays it to the user.
 
 ## **How to Use**
 
 - **Log In:**
-  - Navigate to the login page (**Giris.aspx**).
+  - Navigate to the login page (**Login.aspx**).
   - Enter your username and password if you have a registered account.
-  - Click on the "Giriş Yap" (Login) button.
+  - Click on the "Login" button.
 - **Register:**
-  - Click on the "Kayıt Ol" (Register) link on the login page.
+  - Click on the "Sign Up" link on the login page.
   - Provide a username and password.
-  - Click on the "Kayıt Ol" (Register) button.
+  - Click on the "Sign Up" button.
 - **Calculate Grade Average:**
-  - After logging in, go to the "Not Ortalama" (Grade Average) page (**NotOrtalama.aspx**).
+  - After logging in, go to the "Grade Average" page (**GradeAverage.aspx**).
   - Enter three different exam grades.
-  - Click on the "Ortalama Hesapla" (Calculate Average) button.
+  - Click on the "Calculate Average" (Calculate Average) button.
 - **Log Out:**
-  - End your session by clicking on the "Çıkış Yap" (Log Out) button on any page.
+  - End your session by clicking on the "Log Out" (Log Out) button on any page.
 
 ## **Development**
 
 - The application is developed using ASP.NET Web Forms.
 - It is written in the C# programming language.
-- User information is stored in a text file (**kullanicilar.txt**).
+- User information is stored in a text file (**users.txt**).
 - Usernames and passwords are stored in a simple text file. A more robust authentication mechanism is recommended for security purposes.
 
 ## **Contributions**
